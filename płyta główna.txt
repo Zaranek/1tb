@@ -1,0 +1,52 @@
+# Zadanie – Chipsety płyt głównych Intel i AMD
+
+Płyta główna musi być zgodna z procesorem, który zamierzamy w niej zainstalować. Dwaj główni producenci procesorów do komputerów osobistych, **Intel i AMD**, wykorzystują różne podstawki procesorów (sockety).
+
+Płyty główne różnią się również zastosowanym **chipsetem**, który wpływa na ich funkcjonalność, możliwości rozbudowy oraz dostępność określonych technologii.
+
+### Polecenia
+
+**1. Podstawki procesorów**
+
+Sprawdź, jakie są dwie najnowsze generacje podstawek procesorów stosowanych w komputerach stacjonarnych:
+
+- Intel – dwie najnowsze podstawki.
+- AMD – dwie najnowsze podstawki.
+
+Podaj nazwy podstawek oraz przykładowe rodziny procesorów, które można w nich zainstalować.
+
+**2. Chipsety płyt głównych**
+
+Dla każdej z wymienionych podstawek wyszukaj chipsety stosowane w płytach głównych przeznaczonych dla komputerów osobistych.
+
+Podziel je na grupy według producenta i podstawki.
+
+**3. Porównanie możliwości**
+
+Uporządkuj chipsety w obrębie każdej podstawki, zaczynając od modeli o najbardziej podstawowych możliwościach, a kończąc na najbardziej rozbudowanych.
+
+Dla każdego chipsetu określ:
+
+- Przeznaczenie – komputer biurowy, domowy, gamingowy lub zaawansowana stacja robocza.
+- Możliwość podkręcania procesora (overclocking).
+- Obsługiwane standardy pamięci RAM.
+- Możliwości rozbudowy – np. PCI Express, liczba i rodzaj dostępnych złączy USB, SATA oraz M.2.
+- Najważniejsze funkcje, które odróżniają go od innych chipsetów tej samej platformy.
+
+**4. Wnioski**
+
+Odpowiedz na pytania:
+
+a) Czy dwie płyty główne z tą samą podstawką procesora muszą oferować identyczne możliwości?
+
+b) Dlaczego płyty główne z bardziej rozbudowanymi chipsetami są zazwyczaj droższe?
+
+c) Czy zakup płyty z najdroższym chipsetem zawsze jest uzasadniony?
+
+### Sposób wykonania
+
+Wyniki przedstaw w tabelach. Przygotuj osobną tabelę dla każdej podstawki procesora.
+
+Korzystaj przede wszystkim z dokumentacji technicznej producentów Intel i AMD. Na końcu podaj źródła informacji.
+
+**Uwaga:** Porównuj możliwości chipsetów, a nie konkretnych modeli płyt głównych. Liczba dostępnych portów i złączy może zależeć również od konstrukcji danej płyty.
